@@ -1,0 +1,16 @@
+body{
+  background-color: #D8DDE2 !important;
+  font-family: 'Roboto Mono', monospace !important;
+
+}
+main{
+  min-height: 80vh;
+}
+
+h3{
+  padding: 1rem 0;
+}
+
+.rating span{
+  margin: 0.1rem;
+}
